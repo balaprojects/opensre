@@ -1068,13 +1068,6 @@ Thanks goes to these amazing people:
         </a>
     </td>
             <td align="center">
-        <a href="https://github.com/CoderHariswar">
-            <img src="https://avatars.githubusercontent.com/u/113418253?v=4" width="100" alt="CoderHariswar"/>
-            <br />
-            <sub><b>CoderHariswar</b></sub>
-        </a>
-    </td>
-            <td align="center">
         <a href="https://github.com/zeesshhh0">
             <img src="https://avatars.githubusercontent.com/u/87911619?v=4" width="100" alt="zeesshhh0"/>
             <br />
